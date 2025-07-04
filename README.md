@@ -14,6 +14,9 @@ This task performs grayscale to color image colorization using a custom CNN trai
 ## 🐾 Samples
 - Located in `samples/` folder.
 
+## Internship report
+- https://drive.google.com/drive/folders/1xX85bxLgOcrBZ8kVPxWrU_5osPcrT2bb
+
 ## 💾 Model Weights
 - Trained model: `colorization_model.pth`
 
