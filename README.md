@@ -4,19 +4,18 @@
 This task performs grayscale to color image colorization using a custom CNN trained on landscape images. It is tested on different categories like animals and portraits.
 
 ## 📊 Evaluation Metrics
-- PSNR: XX dB
-- SSIM: XX
-- MAE: XX
-- Accuracy: XX%
-- Precision: XX
-- Recall: XX
+- Avg PSNR: 24.37 dB
+- Avg SSIM: 0.9235
+- Avg MAE : 0.047922
+- Accuracy: 77.68%
+- Precision: 0.9299
+- Recall: 0.9118
 
 ## 🐾 Samples
 - Located in `samples/` folder.
 
 ## 💾 Model Weights
 - Trained model: `colorization_model.pth`
-- If the file is too large: [Google Drive Link](PASTE_YOUR_LINK_HERE)
 
 ## 🧪 Requirements
 All dependencies listed in `requirements.txt`.
